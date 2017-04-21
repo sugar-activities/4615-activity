@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-11 15:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: Toolbars.py:176
+msgid "Crear un libro"
+msgstr "Create a book"
+
+#: Toolbars.py:177
+msgid "Para crear un nuevo libro debes hacer click en el icono"
+msgstr "To create a new book you must click on the icon"
+
+#: Toolbars.py:178
+msgid "Posterior a esto haz click en:"
+msgstr ""
+
+#: Toolbars.py:179
+msgid "Editar un libro"
+msgstr "Edit a book"
+
+#: Toolbars.py:180
+msgid "Para editar el libro debes hacer click en"
+msgstr "To edit the book you must click on"
+
+#: Toolbars.py:181
+msgid "Luego haz click en:"
+msgstr "After this click on:"
+
+#: Toolbars.py:182
+msgid "Editar las propiedades"
+msgstr "Edit the properties"
+
+#: Toolbars.py:183
+msgid "Para editar las propiedades debes hacer click en"
+msgstr "To edit the properties you must click on"
+
+#: Toolbars.py:184
+msgid "Despues haz click en:"
+msgstr "Then click on:"
+
+#: Toolbars.py:185
+msgid "Leer un libro"
+msgstr "Read a book"
+
+#: Toolbars.py:186
+msgid "Para leer un libro debes hacer click en:"
+msgstr "To read a book you must click on:"
+
+#: Toolbars.py:187
+msgid "Si quieres ir a la primer página debes hacer click en:"
+msgstr "If you want to go to the first page you can click on:"
+
+#: Toolbars.py:188
+msgid "Si quieres cargar tu libro haz click en:"
+msgstr "If you upload your book click on:"
+
+#: Toolbars.py:189
+msgid "Si te interesan los créditos haz click en:"
+msgstr "If you are interested in click credits:"
+
+#: Toolbars.py:190
+msgid "Editar la 'letra'"
+msgstr "Edit the 'letter'"
+
+#: Toolbars.py:191
+msgid "Para editar la tipografía de un libro debes hacer click en:"
+msgstr "To edit the font of a book you must click on:"
+
+#: Toolbars.py:192
+msgid ""
+"Si tu quieres editar el nombre de la tipografía deberas hacer click donde "
+"dice 'Purisa 8', se desplegara una lista de fuentes. Selecciona una"
+msgstr ""
+"If you want to edit the name of the font have to click where"
+"it says 'Purisa 8', will display a list of sources. Select one"
+
+#: Toolbars.py:193
+msgid "Si quieres editar el color haz click en:"
+msgstr "If you want to edit the color click on:"
+

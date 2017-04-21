@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-11 15:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Adventure Book"
+msgstr "Libro Aventura"
+
+#: Toolbars.py:48
+msgid "Tutorial book"
+msgstr "Libro tutorial"
+
+#: Toolbars.py:57
+msgid "Color for content"
+msgstr "Color para el contenido"
+
+#: Toolbars.py:58
+msgid "Color for page"
+msgstr "Color para la página"
+
+#: Toolbars.py:59
+msgid "Color for title"
+msgstr "Color para el título"
+
+#: Toolbars.py:90
+msgid "Content:"
+msgstr "Contenido:"
+
+#: Toolbars.py:91
+msgid "Title:"
+msgstr "título:"
+
+#: Toolbars.py:123
+msgid "Start from the begining"
+msgstr "Empezar desde la caratula"
+
+#: Toolbars.py:127
+msgid "Read the book"
+msgstr "Leer el libro"
+
+#: Toolbars.py:131
+msgid "Load book from Journal"
+msgstr "Cargar un libro desde el diario"
+
+#: Toolbars.py:142 textbook.py:58 textbook.py:59
+msgid "Credits"
+msgstr "Créditos"
+
+#: Toolbars.py:154
+msgid "New book"
+msgstr "Nuevo libro"
+
+#: Toolbars.py:158 abook.py:250
+msgid "Edit book properties"
+msgstr "Editar las propiedades del libro"
+
+#: Toolbars.py:162
+msgid "Edit book contents"
+msgstr "Editar el contenido del libro"
+
+#: Toolbars.py:166
+msgid "Check book for missing parts"
+msgstr "Revisar continuidad"
+
+#: ayuda.py:36
+msgid "Help"
+msgstr "Ayuda"
+
+#: abook.py:80
+msgid "Select color for font and go to home page"
+msgstr "Selecciona el color para la fuente y ir a la página principal"
+
+#: abook.py:82
+msgid "Select color for page and go to home page"
+msgstr "Selecciona el color para la página y ir a la página principal"
+
+#: abook.py:86
+msgid "Select color for title and go to home page"
+msgstr "Selecciona el color para el título y ir a la página principal"
+
+#: abook.py:149
+msgid "Start reading"
+msgstr "Empezar a Leer"
+
+#: abook.py:218
+msgid "Good!"
+msgstr "Bien!"
+
+#: abook.py:219
+msgid "Book loaded"
+msgstr "Libro cargado"
+
+#: abook.py:225
+msgid "Error in load book"
+msgstr "Error al cargar el libro"
+
+#: abook.py:256
+msgid "Book title"
+msgstr "Título del libro"
+
+#: abook.py:268
+msgid "Book author"
+msgstr "Autor del libro"
+
+#: abook.py:279
+msgid "Book license"
+msgstr "Licencia del libro"
+
+#: abook.py:284 textbook.py:13 textbook.py:48
+msgid "CC-BY"
+msgstr "CC-BY"
+
+#: abook.py:285
+msgid "CC-BY-SA"
+msgstr "CC-BY-SA"
+
+#: abook.py:286
+msgid "CC-BY-NC"
+msgstr "CC-BY-NC"
+
+#: abook.py:287
+msgid "CC-BY-NC-SA"
+msgstr "CC-BY-NC-SA"
+
+#: abook.py:288
+msgid "Copyright"
+msgstr "Copyright"
+
+#: abook.py:333
+msgid "Book pages"
+msgstr "Páginas del libro"
+
+#: abook.py:339
+msgid "Add page"
+msgstr "Añadir página"
+
+#: abook.py:342
+msgid "Remove page"
+msgstr "Borrar página"
+
+#: abook.py:360
+msgid "New page"
+msgstr "Nueva página"
+
+#: abook.py:420
+msgid "Page title"
+msgstr "Título de la página"
+
+#: abook.py:432
+msgid "Page text"
+msgstr "Contenido de la página"
+
+#: abook.py:445
+msgid "Options"
+msgstr "Opciones"
+
+#: abook.py:452 abook.py:518
+msgid "Remove"
+msgstr "Borrar"
+
+#: abook.py:477 abook.py:543
+msgid "Add option"
+msgstr "Añadir opción"
+
+#: abook.py:515
+msgid "Text"
+msgstr "Texto"
+
+#: abook.py:589
+msgid "Everything is OK"
+msgstr "Todo está bien"
+
+#: abook.py:648
+msgid "Error while loading file"
+msgstr "Error al cargar el archivo"
+
+#: textbook.py:12
+msgid "How to use Adventure Book"
+msgstr "Cómo utilizar Libro Aventura"
+
+#: textbook.py:15
+msgid "What are Adventure Books?"
+msgstr "Qué son los libro aventura?"
+
+#: textbook.py:17
+msgid ""
+"Adventure Books are books that allow the reader to choose between different "
+"alternatives."
+msgstr "Los  libros aventura son libros que permiten al usuario elegir diferentes alternativas"
+
+#: textbook.py:19
+msgid "How can I read an Adventure Book?"
+msgstr "¿Como puedo leer un libro aventura?"
+
+#: textbook.py:21
+msgid "Adventure Books can be read with the eyes."
+msgstr "Los libros aventura se pueden leer con los ojos.. "
+
+#: textbook.py:23
+msgid "How can I create an Adventure Book?"
+msgstr "Como creo un libro aventura?"
+
+#: textbook.py:25
+msgid "Adventure Books can be created with hard work."
+msgstr "Un libro aventura se puede crear con un dificil trabajo."
+
+#: textbook.py:27
+msgid "How can I modify an Adventure Book?"
+msgstr "¿Cómo modifico un libro aventura?"
+
+#: textbook.py:29
+msgid "Adventure Books can be modified fearlessly."
+msgstr "Los libro aventura pueden ser modificados sin miedo."
+
+#: textbook.py:31
+msgid "How to read"
+msgstr "Como leer"
+
+#: textbook.py:32
+msgid "How to create"
+msgstr "Como crear"
+
+#: textbook.py:33
+msgid "How to modify"
+msgstr "Como modificar"
+
+#: textbook.py:38 textbook.py:51
+msgid "Return"
+msgstr "Volver"
+
+#: textbook.py:47
+msgid "Title"
+msgstr "Título"
+
+#: textbook.py:50
+msgid "First page"
+msgstr "Primer página"
+
+#: textbook.py:60
+msgid ""
+"Authors:\n"
+"Gabriel Eirea <geirea@gmail.com>\n"
+"Ignacio Rodriguez <nachoel01@gmail.com>\n"
+"Thanks to: Flavio Danesse <fdanesse@gmail.com>\n"
+"\n"
+"¡Thanks for use this program! :)\n"
+" \n"
+"To continue create a empty book!"
+msgstr ""
+"Autores:\n"
+"Gabriel Eirea <geirea@gmail.com>\n"
+"Ignacio Rodríguez <nachoel01@gmail.com>\n"
+"Gracias a:Flavio Danesse <fdanesse@gmail.com>\n"
+"\n"
+"¡Gracias por usar el programa!"
+"\n"
+"Para continuar crea un libro nuevo!"

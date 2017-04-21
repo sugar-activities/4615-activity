@@ -1,0 +1,8 @@
+[Activity]
+name = Adventure Book
+activity_version = 3
+show_launcher = 1
+bundle_id = org.ceibaljam.AdventureBook
+exec = sugar-activity abook.AdventureBookActivity -s
+icon = activity-adventurebook
+license = GPLv3+
